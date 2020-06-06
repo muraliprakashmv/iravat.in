@@ -1,0 +1,2 @@
+# iravat.in
+static website
